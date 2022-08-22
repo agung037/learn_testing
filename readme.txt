@@ -50,7 +50,7 @@ answer 4 EC
 	*invalid test n < 0 example : -81
 
 -test discount percentage between 0 and 100 :
-	*valid test n <= 0 <= 100 example : 7.5
+	*valid test 0 <= n <= 100 example : 7.5
 	*invalid test n < 0 example : -7.5
 	*invalid test n > 100 example : 101
 
