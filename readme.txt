@@ -1,4 +1,5 @@
 Berikut adalah jawaban Quiz 2: Equivalence PartitioningFile, oleh Agung Kurniawan 2113070017
+kode program implementasi terlampir dalam folder ex1_code, ex2_code dan ex3_code, ditulis menggunakan bahasa python
 
 # Excersise 1
 the equivalent cases possible is infinite, but 
