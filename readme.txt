@@ -8,7 +8,7 @@ one case for invalid test with input value beyond maximum
 and one case valid input
 
 – input values between 0 and 15: grey bar 
-  * invalid test   n < 0 		example: -1
+  * invalid test   n < 0 	example: -1
   * valid test   0 <= n <= 15	example: 5
   ans : 2 EC
 
@@ -22,7 +22,7 @@ and one case valid input
 
 - input values between 86 and 100: red bar
   * valid test 86 <= n <= 100	example: 90 
-  * invalid test n > 100 		example: 230
+  * invalid test n > 100 	example: 230
   ans : 2 EC
 
 answer 6 EC
@@ -30,14 +30,14 @@ answer 6 EC
 
 # Excersise 2
 - input value between 0 and 100 : 3% rate
-  	* invalid test  n < 0 		example: -50
+  	* invalid test  n < 0 	example: -50
   	* valid test 0 <= n <= 100 	example 89
 
 - input value between 101 and 1000 : 5% rate
 	* valid test 101 <= n <= 1000 	example 502
 
 - input value over 1000 : 7% rate
-	* valid test 1001 <= n 			example 91000
+	* valid test 1001 <= n 		example 91000
 
 answer 4 EC
 
@@ -45,13 +45,13 @@ answer 4 EC
 
 #Excersise 3
 -test base good price between 0 and infinite :
-	*valid test 0 <= n  	example : 89
-	*invalid test n < 0 	example : -81
+	*valid test 0 <= n  example : 89
+	*invalid test n < 0 example : -81
 
 -test discount percentage between 0 and 100 :
-	*valid test n <= 0 <= 100 	example : 7.5
-	*invalid test n < 0 		example : -7.5
-	*invalid test n > 100 		example : 101
+	*valid test n <= 0 <= 100 example : 7.5
+	*invalid test n < 0 example : -7.5
+	*invalid test n > 100 example : 101
 
 -test shipping mode regular or express or priority
 	* valid test x = "regular"
